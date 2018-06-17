@@ -82,7 +82,7 @@ def game_loop():
 				if count%10==0:
 					level+=1
 					thing_speed+=1
-				print a
+				# print a
 				break
 				# thing_speed+=1
 				# thing_height+=10
