@@ -1,3 +1,4 @@
+# here i added boundaries 
 def car(x,y):
 	gdisplay.blit(img,(x,y))
 
