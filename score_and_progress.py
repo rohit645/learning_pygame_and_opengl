@@ -1,3 +1,4 @@
+# maintaining scores and progress
 import pygame
 import time
 import random
