@@ -1,3 +1,4 @@
+# updated start file 
 import pygame
 pygame.init()
 gdisplay=pygame.display.set_mode((800,600))
