@@ -1,3 +1,5 @@
+# updated moving images script	
+
 def car(x,y):
 	gdisplay.blit(img,(x,y))
 
